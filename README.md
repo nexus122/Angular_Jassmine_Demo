@@ -66,7 +66,7 @@ Para pasar los test tienen que cumplir los siguientes requisitos.
   - Si le paso un numero negativo, quiero que no me haga la suma y me devuelva la edad que indica el atributo
   
 
-## Version
+## Versión
 El proyuecto fue creado con:
 Angular: 13.3.3</br>
 Node: 16.14.2
