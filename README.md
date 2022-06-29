@@ -67,6 +67,6 @@ Para pasar los test tienen que cumplir los siguientes requisitos.
   
 
 ## Versión
-El proyuecto fue creado con:
+El proyuecto fue creado con:</br>
 Angular: 13.3.3</br>
 Node: 16.14.2
