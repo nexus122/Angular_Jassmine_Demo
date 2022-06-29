@@ -1,4 +1,4 @@
-# JasmineTestDemo
+# Jasmine Test Demo
 ¡Mi primer Test unitario en Jasmin!
 Siguiendo este tutorial: https://www.youtube.com/watch?v=-y58-AgLyo4&ab_channel=nicobytes
 
